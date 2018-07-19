@@ -1,0 +1,26 @@
+.markabsence .ui-state-default{
+    color:red;
+    font-weight:bold;
+}
+.marklate .ui-state-default{
+    color:darkorange;
+    border-style: solid;
+    font-weight:bold;
+}
+.markpresent .ui-state-default{
+    color:limegreen;
+    border-style: solid;
+    font-weight:bold;
+}
+h8 {
+    font-weight:bold;
+}
+h8.absent {
+    color:red;
+}
+h8.late {
+    color:darkorange;
+}
+h8.present {
+    color:limegreen;
+}
