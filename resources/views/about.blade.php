@@ -79,8 +79,7 @@
 
     <div class="content">
         <div class="title m-b-md">
-            I etap rekrutacji na stanowisko PHP Developer
-            Dziennik ucznia z wykorzystaniem Laravel 5.4
+            Testowy projekt na larvie
 
         </div>
 
